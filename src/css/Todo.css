@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&display=swap');
+
+body{
+    background-color: #454545;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.center-card{
+    position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 3px;
+  width: 60%;
+  height: 80%;
+}
+
+.text-heading{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.AppBar{
+    align-items: center;
+}
+.add-items{
+    width: 100%;
+    margin-bottom: 0%;
+    margin-left: -100px;
+    height: 100px;
+    margin-top: 5%;
+    background-color: transparent;
+}
+.stack{
+    margin-left: 20%;
+}
+.list-container{
+    overflow: scroll;
+    height:"400px";
+    
+}
+.tasks-list{
+    height: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    overflow: scroll;
+    
+}
+i.hover{
+    cursor: pointer;
+}
+  
+
+
+
+
